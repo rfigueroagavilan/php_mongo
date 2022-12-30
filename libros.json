@@ -1,0 +1,808 @@
+[{
+  "_id": 1,
+  "Título": "Poema de Gilgameshe",
+  "Autor": "Anónimos",
+  "Año": "Siglo XVII a. C.",
+  "País": "Sumeria e Imperio acadio",
+  "Idioma": "AcadiO",
+  "Disponibilidad": 0
+},{
+  "_id": 2,
+  "Título": "Libro de Job (de la Biblia)",
+  "Autor": "Anónimo",
+  "Año": "Siglo VI a. C. - IV a. C.",
+  "País": "Imperio aqueménida",
+  "Idioma": "Hebreos",
+  "Disponibilidad": 0
+},{
+  "_id": 3,
+  "Título": "Las mil y una noches",
+  "Autor": "Anónimo",
+  "Año": "700–1500",
+  "País": "India/Irán/Irak/Egipto",
+  "Idioma": "Árabe",
+  "Disponibilidad": 1
+},{
+  "_id": 4,
+  "Título": "Saga de Njál",
+  "Autor": "Anónimo",
+  "Año": "Siglo XIII",
+  "País": "Islandia",
+  "Idioma": "Nórdico antiguo",
+  "Disponibilidad": 1
+},{
+  "_id": 5,
+  "Título": "Todo se desmorona",
+  "Autor": "Chinua Achebe",
+  "Año": 1958,
+  "País": "Nigeria",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 6,
+  "Título": "Cuentos infantiles",
+  "Autor": "Hans Christian Andersen",
+  "Año": "1835–37",
+  "País": "Dinamarca",
+  "Idioma": "Danés",
+  "Disponibilidad": 0
+},{
+  "_id": 7,
+  "Título": "Divina comedia",
+  "Autor": "Dante Alighieri",
+  "Año": "1265–1321",
+  "País": "Italia",
+  "Idioma": "Italiano",
+  "Disponibilidad": 1
+},{
+  "_id": 8,
+  "Título": "Orgullo y prejuicio",
+  "Autor": "Jane Austen",
+  "Año": 1813,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 9,
+  "Título": "Papá Goriot",
+  "Autor": "Honoré de Balzac",
+  "Año": 1835,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 10,
+  "Título": "Molloy, Malone muere, El Innombrable, una trilogía",
+  "Autor": "Samuel Beckett ",
+  "Año": "1951–53",
+  "País": "Irlanda",
+  "Idioma": "Francés, Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 11,
+  "Título": "Decamerón",
+  "Autor": "Giovanni Boccaccio",
+  "Año": "1349–53",
+  "País": "Rávena",
+  "Idioma": "Italiano",
+  "Disponibilidad": 1
+},{
+  "_id": 12,
+  "Título": "Ficciones",
+  "Autor": "Jorge Luis Borges",
+  "Año": "1944–86",
+  "País": "Argentina",
+  "Idioma": "Español",
+  "Disponibilidad": 1
+},{
+  "_id": 13,
+  "Título": "Cumbres Borrascosas",
+  "Autor": "Emily Brontë",
+  "Año": 1847,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 14,
+  "Título": "El extranjero",
+  "Autor": "Albert Camus ",
+  "Año": 1942,
+  "País": "Argelia, Imperio francés",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 15,
+  "Título": "Poemas",
+  "Autor": "Paul Celan",
+  "Año": 1952,
+  "País": "Rumanía, Francia",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 16,
+  "Título": "Viaje al fin de la noche",
+  "Autor": "Louis-Ferdinand Céline",
+  "Año": 1932,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 17,
+  "Título": "Don Quijote de la Mancha",
+  "Autor": "Miguel de Cervantes",
+  "Año": "1605 (1ª parte), 1615 (2ª parte)",
+  "País": "España",
+  "Idioma": "Español",
+  "Disponibilidad": 1
+},{
+  "_id": 18,
+  "Título": "Los cuentos de Canterbury",
+  "Autor": "Geoffrey Chaucer",
+  "Año": "siglo XIV",
+  "País": "Inglaterra",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 19,
+  "Título": "Relatos cortos",
+  "Autor": "Antón Chéjov",
+  "Año": 1886,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 20,
+  "Título": "Nostromo",
+  "Autor": "Joseph Conrad",
+  "Año": 1904,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 21,
+  "Título": "Grandes Esperanzas",
+  "Autor": "Charles Dickens",
+  "Año": 1861,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 22,
+  "Título": "Jacques el fatalista",
+  "Autor": "Denis Diderot",
+  "Año": 1796,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 23,
+  "Título": "Berlin Alexanderplatz",
+  "Autor": "Alfred Döblin",
+  "Año": 1929,
+  "País": "Alemania",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 24,
+  "Título": "Crimen y castigo",
+  "Autor": "Fiódor Dostoievski",
+  "Año": 1866,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 25,
+  "Título": "El idiota",
+  "Autor": "Fiódor Dostoievski",
+  "Año": 1869,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 26,
+  "Título": "Los endemoniados",
+  "Autor": "Fiódor Dostoievski",
+  "Año": 1872,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 27,
+  "Título": "Los hermanos Karamazov",
+  "Autor": "Fiódor Dostoievski",
+  "Año": 1880,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 28,
+  "Título": "Middlemarch",
+  "Autor": "George Eliot",
+  "Año": 1871,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 29,
+  "Título": "El hombre invisible",
+  "Autor": "Ralph Ellison",
+  "Año": 1952,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 30,
+  "Título": "Medea",
+  "Autor": "Eurípides",
+  "Año": "431 a. C.",
+  "País": "Imperio ateniense",
+  "Idioma": "Griego clásico",
+  "Disponibilidad": 1
+},{
+  "_id": 31,
+  "Título": "¡Absalom, Absalom!",
+  "Autor": "William Faulkner ",
+  "Año": 1936,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 32,
+  "Título": "El ruido y la furia",
+  "Autor": "William Faulkner ",
+  "Año": 1929,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 33,
+  "Título": "Madame Bovary",
+  "Autor": "Gustave Flaubert",
+  "Año": 1857,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 34,
+  "Título": "La educación sentimental",
+  "Autor": "Gustave Flaubert",
+  "Año": 1869,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 35,
+  "Título": "Romancero gitano",
+  "Autor": "Federico García Lorca",
+  "Año": 1928,
+  "País": "España",
+  "Idioma": "Español",
+  "Disponibilidad": 1
+},{
+  "_id": 36,
+  "Título": "Cien años de soledad",
+  "Autor": "Gabriel García Márquez ",
+  "Año": 1967,
+  "País": "Colombia",
+  "Idioma": "Español",
+  "Disponibilidad": 1
+},{
+  "_id": 37,
+  "Título": "El amor en los tiempos del cólera",
+  "Autor": "Gabriel García Márquez ",
+  "Año": 1985,
+  "País": "Colombia",
+  "Idioma": "Español",
+  "Disponibilidad": 1
+},{
+  "_id": 38,
+  "Título": "Fausto",
+  "Autor": "Johann Wolfgang von Goethe",
+  "Año": 1832,
+  "País": "Ducado de Sajonia-Weimar, Alemania",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 39,
+  "Título": "Almas muertas",
+  "Autor": "Nikolai Gogol",
+  "Año": 1842,
+  "País": "Ucrania",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 40,
+  "Título": "El tambor de hojalata",
+  "Autor": "Günter Grass ",
+  "Año": 1959,
+  "País": "Alemania Occidental",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 41,
+  "Título": "Gran Sertón: Veredas",
+  "Autor": "João Guimarães Rosa",
+  "Año": 1956,
+  "País": "Brasil",
+  "Idioma": "Portugués",
+  "Disponibilidad": 1
+},{
+  "_id": 42,
+  "Título": "Hambre",
+  "Autor": "Knut Hamsun ",
+  "Año": 1890,
+  "País": "Noruega",
+  "Idioma": "Noruego",
+  "Disponibilidad": 1
+},{
+  "_id": 43,
+  "Título": "El viejo y el mar",
+  "Autor": "Ernest Hemingway ",
+  "Año": 1952,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 44,
+  "Título": "Ilíada",
+  "Autor": "Homero",
+  "Año": "850–750 a. C.",
+  "País": "Probablemente Esmirna",
+  "Idioma": "Griego antiguo",
+  "Disponibilidad": 1
+},{
+  "_id": 45,
+  "Título": "Odisea",
+  "Autor": "Homero",
+  "Año": "siglo VIII a. C.",
+  "País": "Probablemente Esmirna",
+  "Idioma": "Griego antiguo",
+  "Disponibilidad": 1
+},{
+  "_id": 46,
+  "Título": "Casa de muñecas",
+  "Autor": "Henrik Ibsen",
+  "Año": 1879,
+  "País": "Noruega",
+  "Idioma": "Noruego",
+  "Disponibilidad": 1
+},{
+  "_id": 47,
+  "Título": "Ulises",
+  "Autor": "James Joyce",
+  "Año": 1922,
+  "País": "Estado Libre Irlandés",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 48,
+  "Título": "Relatos cortos",
+  "Autor": "Franz Kafka",
+  "Año": 1924,
+  "País": "República de Checoslovaquia",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 49,
+  "Título": "El proceso",
+  "Autor": "Franz Kafka",
+  "Año": 1925,
+  "País": "República de Checoslovaquia",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 50,
+  "Título": "El castillo",
+  "Autor": "Franz Kafka",
+  "Año": 1926,
+  "País": "República de Checoslovaquia",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 51,
+  "Título": "Shakuntala",
+  "Autor": "Kālidāsa",
+  "Año": "siglo I a. C.-IV d. C.",
+  "País": "India",
+  "Idioma": "Sánscrito",
+  "Disponibilidad": 1
+},{
+  "_id": 52,
+  "Título": "El sonido de la montaña",
+  "Autor": "Yasunari Kawabata ",
+  "Año": 1954,
+  "País": "Japón",
+  "Idioma": "Japonés",
+  "Disponibilidad": 1
+},{
+  "_id": 53,
+  "Título": "Zorba, el griego",
+  "Autor": "Nikos Kazantzakis",
+  "Año": 1946,
+  "País": "Grecia",
+  "Idioma": "Griego moderno",
+  "Disponibilidad": 1
+},{
+  "_id": 54,
+  "Título": "Hijos y amantes",
+  "Autor": "D. H. Lawrence",
+  "Año": 1913,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 55,
+  "Título": "Gente independiente",
+  "Autor": "Halldór Laxness ",
+  "Año": "1934–35",
+  "País": "Islandia",
+  "Idioma": "Islandés",
+  "Disponibilidad": 1
+},{
+  "_id": 56,
+  "Título": "Poemas",
+  "Autor": "Giacomo Leopardi",
+  "Año": 1818,
+  "País": "Italia",
+  "Idioma": "Italiano",
+  "Disponibilidad": 1
+},{
+  "_id": 57,
+  "Título": "El cuaderno dorado",
+  "Autor": "Doris Lessing ",
+  "Año": 1962,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 58,
+  "Título": "Pippi Calzaslargas",
+  "Autor": "Astrid Lindgren",
+  "Año": 1945,
+  "País": "Suecia",
+  "Idioma": "sueco",
+  "Disponibilidad": 1
+},{
+  "_id": 59,
+  "Título": "Diario de un loco",
+  "Autor": "Lu Xun",
+  "Año": 1918,
+  "País": "China",
+  "Idioma": "Chino",
+  "Disponibilidad": 1
+},{
+  "_id": 60,
+  "Título": "Hijos de nuestro barrio",
+  "Autor": "Naguib Mahfuz ",
+  "Año": 1959,
+  "País": "Egipto",
+  "Idioma": "Árabe",
+  "Disponibilidad": 1
+},{
+  "_id": 61,
+  "Título": "Los Buddenbrook",
+  "Autor": "Thomas Mann ",
+  "Año": 1901,
+  "País": "Alemania",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 62,
+  "Título": "La montaña mágica",
+  "Autor": "Thomas Mann ",
+  "Año": 1924,
+  "País": "Alemania",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 63,
+  "Título": "Moby-Dick",
+  "Autor": "Herman Melville",
+  "Año": 1851,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 64,
+  "Título": "Ensayos",
+  "Autor": "Michel de Montaigne",
+  "Año": 1595,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 65,
+  "Título": "La historia",
+  "Autor": "Elsa Morante",
+  "Año": 1974,
+  "País": "Italia",
+  "Idioma": "Italiano",
+  "Disponibilidad": 1
+},{
+  "_id": 66,
+  "Título": "Beloved",
+  "Autor": "Toni Morrison ",
+  "Año": 1987,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 67,
+  "Título": "Genji Monogatari",
+  "Autor": "Murasaki Shikibu",
+  "Año": "siglo XI",
+  "País": "Japón",
+  "Idioma": "Japonés",
+  "Disponibilidad": 1
+},{
+  "_id": 68,
+  "Título": "El hombre sin atributos",
+  "Autor": "Robert Musil",
+  "Año": "1930–32",
+  "País": "Austria",
+  "Idioma": "Alemán",
+  "Disponibilidad": 1
+},{
+  "_id": 69,
+  "Título": "Lolita",
+  "Autor": "Vladimir Nabokov",
+  "Año": 1955,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 70,
+  "Título": 1984,
+  "Autor": "George Orwell",
+  "Año": 1949,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 71,
+  "Título": "Las metamorfosis",
+  "Autor": "Ovidio",
+  "Año": "siglo I dC",
+  "País": "Imperio romano",
+  "Idioma": "Latín clásico",
+  "Disponibilidad": 1
+},{
+  "_id": 72,
+  "Título": "Libro del desasosiego",
+  "Autor": "Fernando Pessoa",
+  "Año": 1928,
+  "País": "Portugal",
+  "Idioma": "Portugués",
+  "Disponibilidad": 1
+},{
+  "_id": 73,
+  "Título": "Cuentos",
+  "Autor": "Edgar Allan Poe",
+  "Año": "siglo XIX",
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 74,
+  "Título": "En busca del tiempo perdido",
+  "Autor": "Marcel Proust",
+  "Año": "1913–27",
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 75,
+  "Título": "Gargantúa y Pantagruel",
+  "Autor": "François Rabelais",
+  "Año": "1532–34",
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 76,
+  "Título": "Pedro Páramo",
+  "Autor": "Juan Rulfo",
+  "Año": 1955,
+  "País": "México",
+  "Idioma": "Español",
+  "Disponibilidad": 1
+},{
+  "_id": 77,
+  "Título": "Masnavi",
+  "Autor": "Rumi",
+  "Año": "1258–73",
+  "País": "Persia, Imperio mongol",
+  "Idioma": "persa",
+  "Disponibilidad": 1
+},{
+  "_id": 78,
+  "Título": "Hijos de la medianoche",
+  "Autor": "Salman Rushdie",
+  "Año": 1981,
+  "País": "India",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 79,
+  "Título": "Bostan",
+  "Autor": "Saadi",
+  "Año": 1257,
+  "País": "Persia, Imperio mongol",
+  "Idioma": "persa",
+  "Disponibilidad": 1
+},{
+  "_id": 80,
+  "Título": "Tiempo de migrar al norte",
+  "Autor": "Tayeb Salih",
+  "Año": 1966,
+  "País": "Sudán",
+  "Idioma": "Árabe",
+  "Disponibilidad": 1
+},{
+  "_id": 81,
+  "Título": "Ensayo sobre la ceguera",
+  "Autor": "José Saramago ",
+  "Año": 1995,
+  "País": "Portugal",
+  "Idioma": "Portugués",
+  "Disponibilidad": 1
+},{
+  "_id": 82,
+  "Título": "Hamlet",
+  "Autor": "William Shakespeare",
+  "Año": 1603,
+  "País": "Inglaterra",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 83,
+  "Título": "El rey Lear",
+  "Autor": "William Shakespeare",
+  "Año": 1608,
+  "País": "Inglaterra",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 84,
+  "Título": "Otelo",
+  "Autor": "William Shakespeare",
+  "Año": 1609,
+  "País": "Inglaterra",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 85,
+  "Título": "Edipo rey",
+  "Autor": "Sófocles",
+  "Año": "430 a. C.",
+  "País": "Imperio ateniense",
+  "Idioma": "Griego clásico",
+  "Disponibilidad": 1
+},{
+  "_id": 86,
+  "Título": "Rojo y negro",
+  "Autor": "Stendhal",
+  "Año": 1830,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 87,
+  "Título": "Vida y opiniones del caballero Tristram Shandy",
+  "Autor": "Laurence Sterne",
+  "Año": 1760,
+  "País": "Inglaterra",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 88,
+  "Título": "La conciencia de Zeno",
+  "Autor": "Italo Svevo",
+  "Año": 1923,
+  "País": "Italia",
+  "Idioma": "Italiano",
+  "Disponibilidad": 1
+},{
+  "_id": 89,
+  "Título": "Los viajes de Gulliver",
+  "Autor": "Jonathan Swift",
+  "Año": 1726,
+  "País": "Irlanda",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 90,
+  "Título": "Guerra y paz",
+  "Autor": "Lev Tolstói",
+  "Año": "1865–1869",
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 91,
+  "Título": "Ana Karenina",
+  "Autor": "Lev Tolstói",
+  "Año": 1877,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 92,
+  "Título": "La muerte de Iván Ilich",
+  "Autor": "Lev Tolstói",
+  "Año": 1886,
+  "País": "Rusia",
+  "Idioma": "Ruso",
+  "Disponibilidad": 1
+},{
+  "_id": 93,
+  "Título": "Las aventuras de Huckleberry Finn",
+  "Autor": "Mark Twain",
+  "Año": 1884,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 94,
+  "Título": "Ramayana",
+  "Autor": "Valmiki",
+  "Año": "siglo III a. C.-siglo III d. C.",
+  "País": "India",
+  "Idioma": "Sánscrito",
+  "Disponibilidad": 1
+},{
+  "_id": 95,
+  "Título": "Eneida",
+  "Autor": "Virgilio",
+  "Año": "29–19 a. C.",
+  "País": "Imperio romano",
+  "Idioma": "latín clásico",
+  "Disponibilidad": 1
+},{
+  "_id": 96,
+  "Título": "Mahabhárata",
+  "Autor": "Viasa",
+  "Año": "siglo IV a.C.",
+  "País": "India",
+  "Idioma": "Sánscrito",
+  "Disponibilidad": 1
+},{
+  "_id": 97,
+  "Título": "Hojas de hierba",
+  "Autor": "Walt Whitman",
+  "Año": 1855,
+  "País": "Estados Unidos",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 98,
+  "Título": "La señora Dalloway",
+  "Autor": "Virginia Woolf",
+  "Año": 1925,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 99,
+  "Título": "Al faro",
+  "Autor": "Virginia Woolf",
+  "Año": 1927,
+  "País": "Reino Unido",
+  "Idioma": "Inglés",
+  "Disponibilidad": 1
+},{
+  "_id": 100,
+  "Título": "Memorias de Adriano",
+  "Autor": "Marguerite Yourcenar",
+  "Año": 1951,
+  "País": "Francia",
+  "Idioma": "Francés",
+  "Disponibilidad": 1
+},{
+  "_id": 101,
+  "Título": "Prueba 1",
+  "Autor": "Prueba 1",
+  "Idioma": "Prueba 1",
+  "Año": "Prueba 1",
+  "Disponibilidad": 1
+}]

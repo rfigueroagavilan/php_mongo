@@ -1,0 +1,22 @@
+[{
+  "_id": 1,
+  "fechaAgendamiento": "30-12-2022 12:25:10am",
+  "fechaTope": "31/01/2023",
+  "fechaEntrega": "",
+  "idLibro": 1,
+  "idCliente": 104
+},{
+  "_id": 2,
+  "fechaAgendamiento": "30-12-2022 12:25:22am",
+  "fechaTope": "26/02/2023",
+  "fechaEntrega": "",
+  "idLibro": 2,
+  "idCliente": 104
+},{
+  "_id": 3,
+  "fechaAgendamiento": "30-12-2022 12:25:35am",
+  "fechaTope": "28/02/2023",
+  "fechaEntrega": "",
+  "idLibro": 6,
+  "idCliente": 1
+}]
